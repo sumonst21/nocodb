@@ -33,7 +33,7 @@
     "monaco-themes": "^0.2.5",
     "nano-assign": "^1.0.1",
     "nocodb-sdk": "file:../nocodb-sdk",
-    "nuxt": "^2.14.0",
+    "nuxt": "^2.17.1",
     "odometer": "^0.4.8",
     "papaparse": "^5.3.1",
     "secure-ls": "^1.2.6",
