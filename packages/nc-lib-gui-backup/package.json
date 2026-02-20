@@ -24,7 +24,7 @@
     "url": "https://gitlab.com/xgenecloud-ts/xgenecloud-ts/issues"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.13.5",
     "body-parser": "^1.19.0",
     "dayjs": "^1.10.4",
     "express": "^4.17.1",

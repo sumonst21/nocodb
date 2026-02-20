@@ -33,7 +33,7 @@
     "monaco-themes": "^0.2.5",
     "nano-assign": "^1.0.1",
     "nocodb-sdk": "file:../nocodb-sdk",
-    "nuxt": "^2.14.0",
+    "nuxt": "^4.3.1",
     "odometer": "^0.4.8",
     "papaparse": "^5.3.1",
     "secure-ls": "^1.2.6",
@@ -73,7 +73,7 @@
     "babel-eslint": "^10.1.0",
     "cross-env": "^7.0.3",
     "eslint": "^7.31.0",
-    "monaco-editor-webpack-plugin": "^1.9.1",
+    "monaco-editor-webpack-plugin": "^7.1.1",
     "sass": "~1.32.12",
     "vue-eslint-parser": "^7.9.0"
   }
